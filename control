@@ -1,0 +1,9 @@
+Package: jp.r-plus.translucentstatusbarforsafari
+Name: TranslucentStatusBar for Safari
+Depends: mobilesubstrate, firmware (>= 6.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: r_plus
+Author: r_plus
+Section: Tweaks
